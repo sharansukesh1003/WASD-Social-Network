@@ -1,4 +1,4 @@
-# flutter_instagram_custom_ui
+# WASD-Social-Network
 
 A new Flutter project.
 
